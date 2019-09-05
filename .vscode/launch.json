@@ -9,7 +9,7 @@
             "name": "Python: 当前文件",
             "type": "python",
             "request": "launch",
-            "pythonPath": "C:\\Users\\11863\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+            "pythonPath": "D:\\Python37\\python.exe",
             "program": "${file}",
             "console": "integratedTerminal"
         }

@@ -18,7 +18,6 @@
 
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        profit = 0
         if prices == []:
             return 0
         top = max(prices)
