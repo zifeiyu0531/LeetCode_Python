@@ -34,7 +34,7 @@ def exgcd(m,n,x,y):
 	return (d,x,y)
  
 m = 5
-n = 72
+n = 19
 ans = exgcd(m,n,0,0)
  
 print("gcd(%d,%d) = %d"%(m,n,ans[0]))
